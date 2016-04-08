@@ -1,0 +1,25 @@
+{
+  "name": "puchdbplayground",
+  "version": "0.0.1",
+  "description": "Trying out pouchdb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singhshashi/pouchdb-playground.git"
+  },
+  "keywords": [
+    "pouch"
+  ],
+  "author": "Shashi Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/singhshashi/pouchdb-playground/issues"
+  },
+  "homepage": "https://github.com/singhshashi/pouchdb-playground#readme",
+  "devDependencies": {
+    "pouchdb": "^5.3.1"
+  }
+}
